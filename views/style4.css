@@ -1,0 +1,29 @@
+body {
+    background-image: url('img/requirements.png');
+    background-position: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.kepala {
+    font-weight: bold;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+table {
+    margin: 100px;
+    margin-right: 1250px;
+}
+
+table tr td {
+    border: solid 1px;
+    align: justify;
+    padding: 15px;
+}
+
+table tr td span {
+    color: gold;
+    font-weight: bold;
+}

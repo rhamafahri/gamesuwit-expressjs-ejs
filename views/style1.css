@@ -1,0 +1,25 @@
+body {
+    background-image: url('img/main-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0%;
+}
+
+.container-navbar {
+    opacity: 0.8;
+}
+
+.content {
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}

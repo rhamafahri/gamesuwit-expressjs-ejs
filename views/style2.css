@@ -1,0 +1,27 @@
+body {
+    background-image: url('img/the-games-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0%;
+    position: relative;
+}
+
+.container-teks {
+    margin: 200px;
+    color: white;
+    position: relative;
+    align-self: ;
+}
+
+.container-slide {
+    position: absolute;
+    margin: 0px 250px;
+    display: flex;
+    width: 1000px;
+    height: 250px;
+}
+
+.carousel-inner {
+    width: 500px;
+    height: s500px;
+}

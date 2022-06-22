@@ -1,0 +1,58 @@
+body {
+    background-image: url('img/top-score-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bungkus-tulisan {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 350px;
+    color: white;
+}
+
+.bungkus-tulisan button {
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.bungkus-tulisan h1 {
+    color: white;
+}
+
+.bungkus-card {
+    position: absolute;
+    margin-left: 1100px;
+    margin-right: 10px;
+    margin-top: 200px;
+}
+
+.bungkus-kartu1 {
+    position: relative;
+    padding-left: 100px;
+}
+
+.bungkus-kartu2 {
+    position: relative;
+    padding-right: 100px;
+}
+
+.bungkus-kartu3 {
+    position: relative;
+    padding-left: 100px;
+}
+
+.bungkus-card img {
+    width: 70px;
+    height: 70px;
+    padding: 10px;
+    float: left;
+}
+
+.bungkus-card svg {
+    float: right;
+}
+
+.card-body h5 span {
+    color: gold;
+}
